@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3ed7927a-9313-4901-9d54-d727ae804b18" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Wo7c3wETPsd9Oyr1i4ey0YWlj0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../simulation" />
+    <property name="settings.editor.selected.configurable" value="http.proxy" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3ed7927a-9313-4901-9d54-d727ae804b18" name="Default Changelist" comment="" />
+      <created>1579804170023</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579804170023</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="592" y="200" key="#Web_Browsers" timestamp="1579796922639">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="592" y="200" key="#Web_Browsers/65.24.1855.1056@65.24.1855.1056" timestamp="1579796922639" />
+    <state x="495" y="330" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1580406560007">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="495" y="330" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/65.24.1855.1056@65.24.1855.1056" timestamp="1580406560007" />
+    <state x="1116" y="283" key="FileChooserDialogImpl" timestamp="1580664831664">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="1116" y="283" key="FileChooserDialogImpl/65.24.1855.1056@65.24.1855.1056" timestamp="1580664831664" />
+    <state x="486" y="177" key="SettingsEditor" timestamp="1580374388135">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="486" y="177" key="SettingsEditor/65.24.1855.1056@65.24.1855.1056" timestamp="1580374388135" />
+    <state x="653" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1580443350334">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="653" y="380" key="com.intellij.ide.util.TipDialog/65.24.1855.1056@65.24.1855.1056" timestamp="1580443350334" />
+  </component>
+</project>
